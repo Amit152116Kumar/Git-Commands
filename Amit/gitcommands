@@ -42,7 +42,7 @@ Reset the remote url : 						git config --unset remote.origin.url
 								
 Change the remote origin :		 			git remote set-url origin https://github.com/Amit152116Kumar/first_project
 
-Push the changes to local repository : 				git push origin master
+Push the changes to local repository : 				git push -u origin master
 
 
 
