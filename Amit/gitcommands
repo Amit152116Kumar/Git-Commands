@@ -2,6 +2,8 @@ Configure username : 						git config --global user.name "Your_name"
 
 Configure email : 						git config --global user.email "your_email"
 
+Clone your Repository : 					git clone https://github.com/Amit152116Kumar/first_project
+
 Creating First Repository : 					git init
 
 Adding file in git :					 	git add file_name.txt
@@ -35,10 +37,14 @@ Moving a file : 						git mv old_name .txt folder_name/new_name.txt
 Adding remote origin : 						git remote add origin https://github.com/Amit152116Kumar/first_project
 
 Verfies the remote url : 					git remote -v
+
+Reset the remote url : 						git config --unset remote.origin.url
 								
 Change the remote origin :		 			git remote set-url origin https://github.com/Amit152116Kumar/first_project
 
 Push the changes to local repository : 				git push origin master
+
+
 
 
 								
