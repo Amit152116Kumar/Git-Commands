@@ -44,6 +44,18 @@ Change the remote origin :		 			git remote set-url origin https://github.com/Ami
 
 Push the changes to local repository : 				git push -u origin master
 
+Show all branches in current repository : 			git branch
+
+Create new branch : 						git branch [branch-name]
+
+Change the branch to specified branch : 			git checkout [branch-name]
+
+Combines the specified branch into the current branch : 	git merge [branch]
+
+Deletes the specified branch : 					git branch -d [branch-name]
+
+
+
 
 
 
