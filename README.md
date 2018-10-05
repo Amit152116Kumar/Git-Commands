@@ -3,9 +3,6 @@
 This is my first repository in Git & i am trying to make easier to learn Git for new people .
 
 
-## All basic Commands for GitHub are :
-
-
 
 # GitHub Useful Commands
 
